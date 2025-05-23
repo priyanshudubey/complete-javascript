@@ -9,20 +9,20 @@ Each file is structured like a **note** – so you can learn by reading, running
 
 ## 📚 What's Inside?
 
-| Episode | Topic Covered                                | File Name                |
-| ------- | -------------------------------------------- | ------------------------ |
-| 1       | What is JavaScript & Why Learn It?           |                          |
-| 2       | How JavaScript Really Works (V8, Event Loop) |
-| 3       | Variables, Data Types, Hoisting              | `3-variables.js`         |
-| 4       | Functions & Scope                            | `4-function.js`          |
-| 5       | Callback Functions                           | `5-callbackFunctions.js` |
-| 6       | Arrays & Array Methods (map, filter...)      | `6-Array.js`             |
-| 7       | Strings & String Methods                     | `7-Strings.js`           |
-| 8       | JavaScript Operators                         | `8-Operators.js`         |
-| 9       | Loops – for, while, forEach, break           | `9-loops.js`             |
-| 10      | Objects & Nested Data                        | `10-objects.js`          |
-| 11      | Conditionals – if, else, switch, ternary     | `11-conditionals.js`     |
-| 12+     | Async JavaScript (coming soon...)            | `12-async-js.js`         |
+| Episode | Topic Covered                                | File Name                | Video Link                                                  |
+| ------- | -------------------------------------------- | ------------------------ | ----------------------------------------------------------- |
+| 1       | What is JavaScript & Why Learn It?           |                          | [Video 1](https://youtu.be/mPuUdBmzzDk?si=xL3uR3rBIHnx9_4T) |
+| 2       | How JavaScript Really Works (V8, Event Loop) |                          | [Video 2](https://youtu.be/5RjpgEa53ho?si=XGBwrcSQtW8fzO3p) |
+| 3       | Variables, Data Types, Hoisting              | `3-variables.js`         | [Video 3](https://youtu.be/mm3wgScjCx0?si=_ClNl0Q3-0VM7FG4) |
+| 4       | Functions & Scope                            | `4-function.js`          | [Video 4](https://youtu.be/O2J-P1dlu7k?si=9UA5PfJkHHuDdk0F) |
+| 5       | Callback Functions                           | `5-callbackFunctions.js` | [Video 5](https://youtu.be/Ty1_fkeB29A?si=DdJ1F9doGBjBQeh6) |
+| 6       | Arrays & Array Methods (map, filter...)      | `6-Array.js`             | [Video 6](https://youtu.be/dfER25324kk?si=5OmgXIo-RKdDDdoJ) |
+| 7       | Strings & String Methods                     | `7-Strings.js`           | [Video 7](https://youtu.be/Y_XEJhSfpAo?si=WTkqXm-AdaErzL-p) |
+| 8       | JavaScript Operators                         | `8-Operators.js`         | [Video 8](https://youtu.be/5drtCqGVzqk?si=kke2BTD0egDyn-bZ) |
+| 9       | Loops – for, while, forEach, break           | `9-loops.js`             | COMING SOON                                                 |
+| 10      | Objects & Nested Data                        | `10-objects.js`          | COMING SOON                                                 |
+| 11      | Conditionals – if, else, switch, ternary     | `11-conditionals.js`     | COMING SOON                                                 |
+| 12+     | Async JavaScript (coming soon...)            | `12-async-js.js`         | COMING SOON                                                 |
 
 ---
 
